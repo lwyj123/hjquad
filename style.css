@@ -24,7 +24,7 @@ h1 a {
 }
 #canvasContainer canvas {
     display: inline-block;
-    background: #000;
+    background: #aaa;
     border: 2px solid #a80000;
 }
 .ctrl {

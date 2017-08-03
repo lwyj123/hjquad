@@ -111,7 +111,7 @@
      */
     Quadtree.prototype.insert = function( pRect ) {
         
-        var i = 0,
+        var i = 0;
         var index;
         
         //if we have subnodes ...
